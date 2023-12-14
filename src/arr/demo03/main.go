@@ -19,3 +19,6 @@ func main() {
 	var arr4 = [...]int{2:44, 0:22, 1:24, 3:55}
 	fmt.Println(arr4)
 }
+type name interface {
+	
+}
